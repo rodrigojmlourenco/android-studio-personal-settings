@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Android/Convert to data binding layout" />
+  </component>
+</application>
